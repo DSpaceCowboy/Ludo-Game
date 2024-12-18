@@ -1,0 +1,1 @@
+Um jogo de tabuleiro automatizado, portando de 2 a 4 jogadores, cada um com 4 peões. Construído utilizando programação orientada a objetos e lógica de programação. (em estágio final de desenvolvimento)
